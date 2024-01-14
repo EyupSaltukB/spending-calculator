@@ -1,7 +1,6 @@
 # Harcama Hesaplayıcı 
-Gider ekleme, silme ve listeleme fonksiyonlarına sahip bir hesaplayıcı
-projesidir. 
-Filtreleme yapısına sahiptir.
+Gider ekleme, silme, listeleme ve filtreleme fonksiyonlarına sahip bir hesaplayıcı
+projesidir.
 
 # Kullanılan Teknolojiler
 - HTML 
